@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://himanshub15.github.io/RAG-Mastery/">🌐 Live Site</a> •
   <a href="#features">Features</a> •
   <a href="#sections">Sections</a> •
   <a href="#tech">Tech</a> •
